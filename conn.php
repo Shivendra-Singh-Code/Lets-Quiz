@@ -1,13 +1,13 @@
 <?php 
 
-$host = "localhost";
-$user = "root";
-$pass = "king1234";
+$host = "frtsql.mysql.database.azure.com";
+$user = "letsquizad";
+$pass = "King1234";
 $db   = "quiz";
 $conn = null;
 
 
-$options = array(/*PDO::MYSQL_ATTR_SSL_CA => '/var/www/html/BaltimoreCyberTrustRoot.crt.pem'*/);
+$options = array(DigiCertGlobalRootCA.crt.pem);
 try {
   $conn = new PDO("mysql:host={$host};dbname={$db};",$user,$pass,$options);
 } catch (Exception $e) {
