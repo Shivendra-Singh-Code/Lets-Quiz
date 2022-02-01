@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>CEE LOGIN</title>
+	<title>Lets Quiz LOGIN</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" type="login-ui/image/png" href="images/icons/favicon.ico"/>
@@ -21,6 +21,9 @@
 		<div class="container-login100">
 			<div class="wrap-login100">
 				<div class="login100-form-title" style="background-image: url(login-ui/images/bg-01.jpg);">
+					<span class="login100-form-title-1">
+					Let's Quiz : The Online Quiz System	
+					</span>
 					<span class="login100-form-title-1">
 						Sign In
 					</span>
