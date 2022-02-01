@@ -49,7 +49,9 @@
 						</button>
 					</div>
 					<h5>Note:<br>User Email: test@test.com <br>Password:  test123</h5>
-					
+					   <div class="container-login100-form-btn" align="right">
+                 				   <a href="/adminpanel/index.php "> Admin login </a>           
+               				 </div>
 				</form>
 			</div>
 		</div>
