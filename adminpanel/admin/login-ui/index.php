@@ -47,6 +47,7 @@
 						<button type="submit" class="login100-form-btn">
 							Login
 						</button>
+					<h6><br><br>Note:<br>Username: admin@username <br>Password: admin</h6>
 					</div>
 				</form>
 			</div>
