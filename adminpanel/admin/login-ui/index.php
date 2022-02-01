@@ -25,7 +25,7 @@
 					Let's Quiz : The Online Quiz System	
 					</span>
 					<span class="login100-form-title-1">
-						Sign In
+					      Admin Sign In
 					</span>
 				</div>
 
