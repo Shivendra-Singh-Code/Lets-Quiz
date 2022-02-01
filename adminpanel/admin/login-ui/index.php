@@ -52,7 +52,7 @@
 					<h6><br><br>Note:<br>Username: admin@username <br>Password: admin</h6>
 					<div class="container-login100-form-btn" align="right">
 						<button type="submit" class="login100-form-btn">
-						<a href="/index.php "><br><br> | Player login |</a>
+						<a href="/index.php "> | Player login |</a>
 						</button>
 					</form>
 			</div>
