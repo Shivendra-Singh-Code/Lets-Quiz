@@ -1,6 +1,6 @@
 <?php 
 
-$host = "frtsql.mysql.database.azure.com";
+$host = "cclproject.mysql.database.azure.com";
 $user = "letsquizad";
 $pass = "Shivendra@23";
 $db   = "quiz1";
@@ -8,7 +8,7 @@ $db   = "quiz1";
 
 
 
-$conn = new PDO('mysql:host=frtsql.mysql.database.azure.com;port=3306;dbname=quiz1', 'letsquizad', 'Shivendra@23', $options);
+$conn = new PDO('mysql:host=cclproject.mysql.database.azure.com;port=3306;dbname=quiz1', 'letsquizad', 'Shivendra@23', $options);
 
 
 
